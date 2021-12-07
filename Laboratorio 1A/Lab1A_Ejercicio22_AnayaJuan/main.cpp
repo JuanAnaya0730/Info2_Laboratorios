@@ -1,3 +1,8 @@
+/*
+ * Laboratorio 1A - Ejercicio 22
+ * Juan Sebastian Anaya Regino
+*/
+
 #include <iostream>
 
 using namespace std;
